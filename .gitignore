@@ -2,6 +2,7 @@ node_modules
 coverage
 dist
 .idea
+.vscode
 npm-debug.log
 .tmp
 .DS_Store
